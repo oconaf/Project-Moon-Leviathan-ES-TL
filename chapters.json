@@ -10,13 +10,7 @@
       "volume": "01",
       "last_updated": "1772074198",
       "groups": {
-        "leviathan": [
-          "https://drive.usercontent.google.com/download?id=1oPqIP3_ioW3UXLjeGr8bd0YHspNCwJLf",
-          "https://drive.usercontent.google.com/download?id=18qeDHAWllTfTfTeew0uCqWLPBXb_s0Ty",
-          "https://drive.usercontent.google.com/download?id=17afBR6PcVWha27ifXCEY7iiPvjfcf-Ja",
-          "https://drive.usercontent.google.com/download?id=1v2rTsIHSt89M864_JaZZUFwYfWiHxeTp",
-          "https://drive.usercontent.google.com/download?id=1AazZ5GvO4GPR9rGxsbugOyC3QM5LdAYl"
-        ]
+        "leviathan": "/proxy/api/imgur/chapter/3gZzN0e"
       }
     }
   }
