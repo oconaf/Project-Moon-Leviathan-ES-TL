@@ -3,15 +3,15 @@
   "description": "Leviatán - La épica de Vergilius, la Mirada Roja\nhttps://limbuscompany.global/",
   "artist": "Monggeu",
   "author": "Project Moon",
-  "cover": "https://imgur.com/gallery/leviathan-cover-image-71VU8oq",
+  "cover": "https://cdn.discordapp.com/attachments/1457172006024904858/1476406822310121688/3036a50dd663f87a524076cf989d2666.png?ex=69a10280&is=699fb100&hm=1adbfa6abe59f123f0cd751128df65d94bff434654165b31e38b4d827b52baeb&",
   "chapters": {
     "01": {
       "title": "Capítulo 1",
       "volume": "01",
+      "last_updated": "1772084171",
       "groups": {
         "leviathan": "/proxy/api/imgur/gallery/leviathan-cap-tulo-1-espa-ol-iNV8JpK"
-      },
-      "last_updated": "1772084171"
+      }
     }
   }
 }
